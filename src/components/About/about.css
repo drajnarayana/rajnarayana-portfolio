@@ -7,8 +7,8 @@
 
  font-family: 'Roboto', sans-serif;
  padding: 10px;
- margin-right: 80px;
- margin: auto;
+ /* margin-right: 80px; */
+ /* margin: auto; */
 
 }
 
@@ -27,21 +27,46 @@ margin: auto;
 }
 
 
+.aboutflex{
+    display: flex;
+    justify-content: space-around;
+  width: 60%;
+   margin-left: 20%;
+   padding-bottom: 20px;
+}
+
+span{
+font-size: 16px;
+color: #B37D4E;
+}
+
+.mail{
+    position: relative;
+    cursor: pointer;
+}
+
+.mail:hover{
+color: #CD5360;
+
+}
+
+.aboutflex div{
+    margin-top: 20px;
+  
+}
 
 
 @media only screen and (max-width: 900px) {
- .aboutflex{
-display: flex;
+    .aboutflex{
+  display: flex;
 flex-direction: column;
 margin-left: 40%;
 
 }
 
 .aboutflex div{
- margin-top: 20px;
+    margin-top: 20px;
 }
 
 }
-
-
 

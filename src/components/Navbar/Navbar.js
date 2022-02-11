@@ -13,11 +13,11 @@ function Navbar() {
         <a href="#about" className="a2">
           About
         </a>
-        <a href="#project" className="a3">
-          Project
-        </a>
         <a href="#skills" className="a4">
           Skills
+        </a>
+        <a href="#project" className="a3">
+          Project
         </a>
         <a href="#contact" className="a5">
           Contact

@@ -1,6 +1,6 @@
 .photobody{
     width: 50vw;
-    height: 300px;
+    height: 250px;
    
 /* animation-name: boxx;
 animation-duration: 2s; */
@@ -14,7 +14,7 @@ animation-duration: 2s; */
    margin-left: 40%;
     /* border: 1px solid #FAFAFA; */
     overflow: hidden;
-    border-radius:5%;
+    /* border-radius: 100%; */
 }
 
 .photodiv img{

@@ -1,6 +1,6 @@
 import React from 'react';
 import "./profile.css";
-
+import { Details } from './Details/Details';
 import Photo from "./Photo/Photo"
 
 function Profile() {
@@ -10,7 +10,7 @@ function Profile() {
         <div>
           <Photo />
         </div>
-       
+       <Details/>
       </div>
     );
 }
