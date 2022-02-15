@@ -39,7 +39,7 @@ export const Details=()=>{
                   <img
                     className="linkedin"
                     src="https://img.icons8.com/material-rounded/50/000000/medium-logo.png"
-                    alt="linkedin"
+                    alt="medium"
                   />
                 </a>
               

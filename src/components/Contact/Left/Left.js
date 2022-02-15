@@ -3,60 +3,40 @@ import  "./left.css";
 function Left() {
   return (
     <div className="leftbody">
-      <div className="wrapper">
-        <div
-          style={{
-            color: "black",
-            fontSize: "30px",
-            fontFamily: "'Roboto', sans-serif",
-            // paddingLeft: "20px",
-            fontWeight: "900",
-            width:"250px",
-          
-          }}
-        >
-          Have an idea?
-        </div>
-        <div
-          style={{
-            color: "#286DAB",
-            // paddingLeft: "20px",
-            fontSize: "20px",
-            paddingTop: "10px",
-            width:"250px",
-           
-            fontWeight: "700",
-          }}
-        >
-          Let's Connect!!
-        </div>
-        <div className="maildiv">
-        <img height="30px" width="30px" src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
-
-          <a href="rajnarayanadasari@gmail.com" style={{ textDecoration: "none" }}>
-           
-            <span style={{ paddingTop: "25px", cursor: "pointer" }}>
-              rajnarayanadasari@gmail.com
-            </span>
+      
+        <h2>Get in Touch</h2>
+        <div className="contactinfo">
+          <div className="addressdiv">
+          <img height="25px" width="25px" src="https://img.icons8.com/material-rounded/48/000000/marker.png"/>
+            <h4>1-8-1/F-16/B-22/MIG-II,Baghlingampally,Hyderabad-500044</h4>
+          </div>
+          <div className="phonediv">
+          <img  height="25px" width="25px" src="https://img.icons8.com/ios-glyphs/60/000000/phone--v1.png"/>
+          <h4>+91 9177907829</h4>
+          </div>
+          <div className="maildiv">
+          <a href = "mailto: rajnarayanadasari@gmail.com">
+          <img height="25px" width="25px" src="https://img.icons8.com/material-rounded/24/000000/mail.png"/>
           </a>
-        </div>
-        
-        <div className="phonediv">
-        <img  height="30px" width="30px" src="https://img.icons8.com/ios/50/000000/phone.png"/>
-
-          <span style={{ paddingTop: "10px", color: "black" }}>
-            +91 9177907829
-          </span>
-        </div>
-        <div className="icondiv">
-          <a target="_blank" href="https://github.com/drajnarayana">
-            <img className="img" src="https://img.icons8.com/glyph-neue/100/000000/github.png"/>
+          <h4>rajnarayanadasari@gmail.com</h4>
+          </div>
+      </div>
+      <div className="icondiv">
+      <a target="_blank" href="https://github.com/drajnarayana">
+      <img src="https://img.icons8.com/material-sharp/48/000000/github.png" alt="github"/>
           </a>
           <a target="_blank" href="https://www.linkedin.com/in/rajnarayana-dasari-63b245118/">
-            <img className="img" src="/linkedin.svg" alt="linkedin" />
+          <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="linkedin"/>
           </a>
-        
-        </div>
+         
+          <a href = "mailto: rajnarayanadasari@gmail.com">
+          <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="gmail"/>
+          </a>
+
+          <a target="_blank" href="https://medium.com/@drajnaryana">
+          <img src="https://img.icons8.com/material-sharp/48/000000/medium-logo.png" alt="medium"/>
+          </a>
+     
       </div>
     </div>
   );

@@ -1,70 +1,56 @@
 .leftbody{
-    border-bottom: 1px solid #f2f2f2;
-    border-top: 1px solid #f2f2f2;
-    background-color: #fafafa;
- min-height: 200px;
- margin-top: 100px;
- width: 50%;
- font-family: 'Roboto', sans-serif;
- padding: 30px;
- min-width: 250px;
-max-height: 380px;
-/* border:1px solid black */
+    height:380px;
+    width:50%;
+   
+    
 }
 
-.maildiv{
- margin-top: 20px;
-
- display: flex;
- width:280px;
- gap:15px;
- /* border:1px solid red; */
+.contactinfo{
+    height:180px;
+    width:400px;
+    margin: auto;
+   
 }
-
-
-.maildiv:hover{
- color: black;
+.addressdiv{
+    display: flex;
+    height:70px;
+  width:85%;
+   text-align: left;
+  
 }
-
+.addressdiv h4, .phonediv h4 , .maildiv h4{
+    margin: 0;
+    margin-top: 15px;
+}
+.addressdiv img{
+    margin-top: 15px;
+    margin-right: 20px;
+}
 .phonediv{
-
- width:200px;
-
- display: flex;
- gap:10px;
- /* border:1px solid red; */
+    display: flex;
+    height:50px;
+    width:85%;
+   
+      
 }
-
+.phonediv img{
+    margin-top: 15px;
+    margin-right: 20px;
+}
+.maildiv{
+    display: flex;
+    height:50px;
+    width:85%;
+  
+    
+}
+.maildiv img{
+    margin-top: 17px;
+    margin-right: 20px;
+}
 .icondiv{
- margin-top: 20px;
- margin-left: 15px;
- width:100px;
-
- display: flex;
- gap:10px;
- /* border:1px solid  red; */
-}
-
-.icondiv img{
- width: 35px;
-cursor: pointer;
-
-}
-
-
-
-.wrapper{
- margin-left: 30%;
- margin-top: 30px;
-}
-
-@media only screen and (max-width: 800px){
- .leftbody{
-     width: 100%;
-     border-bottom: none;
- }
- .wrapper{
- margin-left: 7%;
-
-}
+    display: flex;
+    width:220px;
+    margin-left:160px ;
+    justify-content: space-around;
 }

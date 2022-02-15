@@ -158,7 +158,7 @@ const Project2 = () => {
               className="anch"
               style={{ textDecoration: "none", color: "white" }}
               target="_blank"
-              href=""
+              href="https://drive.google.com/file/d/1ZUWS0gsFWoSpQtBYovzWea1qzf6kUg2f/view?usp=sharing"
             >
               <span>
                 <img

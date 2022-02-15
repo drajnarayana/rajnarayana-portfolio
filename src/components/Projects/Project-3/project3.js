@@ -86,7 +86,7 @@ const Project3 = () => {
 
         <h3 style={{ color: "#B37D4E" }}>Tech stack:</h3>
         <p>MongoDB | Express | NodeJS | EJS | CSS | Advance JAVASCRIPT |</p>
-
+     
         <div className="btndivv">
           <button className="btnpro" style={{ backgroundColor: "black" }}>
             <a
@@ -158,7 +158,7 @@ const Project3 = () => {
               className="anch"
               style={{ textDecoration: "none", color: "white" }}
               target="_blank"
-              href=""
+              href="https://drive.google.com/file/d/15E68s6Bb3qlutuSi1dq-GcTinDq_8Ehg/view?usp=sharing"
             >
               <span>
                 <img
