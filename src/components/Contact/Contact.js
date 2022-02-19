@@ -6,7 +6,7 @@ import Right from './Right/Right'
 
 function Contact() {
     return (
-        <div>
+        <div id="contact">
             <div className='contactme'>
                 <h1>Contact Me</h1></div>
             <div className='contactbody'>

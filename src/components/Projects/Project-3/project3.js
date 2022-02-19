@@ -105,7 +105,7 @@ const Project3 = () => {
                   }}
                   stroke="currentColor"
                   fill="currentColor"
-                  stroke-width="0"
+                  strokeWidth="0"
                   viewBox="0 0 496 512"
                   height="1.1em"
                   width="1.1em"
@@ -138,7 +138,7 @@ const Project3 = () => {
                   }}
                   stroke="currentColor"
                   fill="currentColor"
-                  stroke-width="0"
+                  strokeWidth="0"
                   viewBox="0 0 24 24"
                   height="1.1em"
                   width="1.1em"

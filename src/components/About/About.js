@@ -24,15 +24,15 @@ function About() {
             style={{ left: "-30px", position: "absolute" }}
             stroke="currentColor"
             fill="currentColor"
-            stroke-width="0"
+            strokeWidth="0"
             viewBox="0 0 24 24"
-            class="About_icon__1B8FN"
+            className="About_icon__1B8FN"
             height="1.3em"
             width="1.3em"
             xmlns="http://www.w3.org/2000/svg"
           >
             <path
-              fill-rule="evenodd"
+              fillRule="evenodd"
               d="M23,20 L23,6 L12,15 L1,6 L1,20 L23,20 Z M12,12 L22,4 L2,4 L12,12 Z"
             ></path>
           </svg>
@@ -51,10 +51,10 @@ function About() {
           <svg
             style={{ left: "-30px", position: "absolute" }}
             stroke="currentColor"
-            fill="currentColor"
-            stroke-width="0"
+            fillRule="currentColor"
+            strokeWidth="0"
             viewBox="0 0 448 512"
-            class="About_icon__1B8FN"
+            className="About_icon__1B8FN"
             height="1.3em"
             width="1.3em"
             xmlns="http://www.w3.org/2000/svg"

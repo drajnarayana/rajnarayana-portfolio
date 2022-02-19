@@ -4,7 +4,7 @@ import  './footer.css'
 function Footer() {
     return (
       <div className="footerbody">
-        {/* <p>© 2021 Developed by Rajnarayana Dasari</p> */}
+        <h4>© 2021 Developed by Rajnarayana Dasari Inspired from Huxly Gerard Singh A</h4>
       </div>
     );
 }

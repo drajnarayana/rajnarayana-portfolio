@@ -33,14 +33,6 @@ function Skills() {
           <div style={{ fontWeight: "300" }}>Algorithms</div>
         </div>
         <div>
-          <img src="/skills/bootstrap.svg" alt="html" />
-          <div style={{ fontWeight: "300" }}>Bootstrap</div>
-        </div>
-        <div>
-          <img src="/skills/github.svg" alt="html" />
-          <div style={{ fontWeight: "300" }}>Github</div>
-        </div>
-        <div>
           <img src="/skills/Mongodb.svg" alt="html" />
           <div style={{ fontWeight: "300" }}>Mongodb</div>
         </div>
@@ -51,6 +43,19 @@ function Skills() {
         <div>
           <img src="/skills/node.svg" alt="html" />
           <div style={{ fontWeight: "300" }}>Node js</div>
+        </div>
+
+        <div>
+          <img src="/skills/materialui.svg" alt="html" />
+          <div style={{ fontWeight: "300" }}>Material-UI</div>
+        </div>
+        <div>
+          <img src="/skills/bootstrap.svg" alt="html" />
+          <div style={{ fontWeight: "300" }}>Bootstrap</div>
+        </div>
+        <div>
+          <img src="/skills/git.svg" alt="html" />
+          <div style={{ fontWeight: "300" }}>Git</div>
         </div>
       </div>
     </div>

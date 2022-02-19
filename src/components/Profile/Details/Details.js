@@ -17,7 +17,7 @@ export const Details=()=>{
                 href="https://drive.google.com/file/d/1c8wpDpEMyiiZ_hplNq7Xo1nZHrWjwBwp/view?usp=sharing"
               >
                 {" "}
-                <button className="resume">RESUME</button>
+                <button className="resume" >RESUME</button>
               </a>
               <div style={{ marginTop: "20px" }}>
                 <a target="_blank" href="https://github.com/drajnarayana">
