@@ -10,9 +10,9 @@
     display: flex;
 }
 
-@media only screen and (max-width: 800px){
+@media only screen and (max-width: 900px){
     .contactbody{
         flex-direction: column;
-        margin-left:50px;
+        margin-left:25px;
     }
 }

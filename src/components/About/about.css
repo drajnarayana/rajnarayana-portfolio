@@ -56,14 +56,19 @@ color: #CD5360;
 }
 
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 950px) {
     .aboutflex{
   display: flex;
 flex-direction: column;
 margin-left: 20%;
 
 }
-
+.content{
+    text-align: justify;
+    font-weight: 200;
+   margin-left: 20px;
+    
+}
 .aboutflex div{
     margin-top: 20px;
 }
