@@ -24,11 +24,11 @@ function Right() {
 
           <form  className='messageform' onSubmit={sendmail}>
              
-             <input style={{height:"30px", width:"350px",marginBottom:"20px",fontSize:"20px"}} name="name" type="text" placeholder='Name'/>
+             <input style={{height:"30px",marginBottom:"20px",fontSize:"20px"}} name="name" type="text" placeholder='Name'/>
             
-             <input style={{height:"30px", width:"350px",marginBottom:"20px",fontSize:"20px"}} name="email" type="text" placeholder='Email'/>
+             <input style={{height:"30px",marginBottom:"20px",fontSize:"20px"}} name="email" type="text" placeholder='Email'/>
              
-             <textarea style={{height:"150px", width:"350px",marginBottom:"20px",fontSize:"24px"}} name="message" type="text" placeholder='Message..'/>
+             <textarea style={{height:"150px",marginBottom:"20px",fontSize:"24px"}} name="message" type="text" placeholder='Message..'/>
              <input className="sendbtn" type="submit" value="SEND"/>
            </form>
        

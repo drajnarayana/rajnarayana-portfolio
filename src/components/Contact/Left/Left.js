@@ -33,7 +33,7 @@ function Left() {
           <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="gmail"/>
           </a>
 
-          <a target="_blank" href="https://medium.com/@drajnaryana">
+          <a target="_blank" href="https://medium.com/@drajnarayana">
           <img src="https://img.icons8.com/material-sharp/48/000000/medium-logo.png" alt="medium"/>
           </a>
      

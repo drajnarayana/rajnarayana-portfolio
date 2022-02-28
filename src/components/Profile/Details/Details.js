@@ -35,7 +35,7 @@ export const Details=()=>{
                     alt="linkedin"
                   />
                 </a>
-                <a target="_blank" href="https://medium.com/@drajnaryana">
+                <a target="_blank" href="https://medium.com/@drajnarayana">
                   <img
                     className="linkedin"
                     src="https://img.icons8.com/material-rounded/50/000000/medium-logo.png"
