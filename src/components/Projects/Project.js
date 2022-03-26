@@ -15,9 +15,10 @@ function Project() {
       </h1>
       <div className="project">
         <div className="projectcontent">
-        <Project3/>
+        
         <Project1 />
         <Project2/>
+        <Project3/>
         </div>
       </div>
     </>

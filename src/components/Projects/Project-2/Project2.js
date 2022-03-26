@@ -2,10 +2,12 @@ import React, { useEffect, useState } from "react";
 import "./project2.css";
 
 import youtube from "./youtube.svg"
-import img1 from "./homedepot.JPG";
-import img2 from "./productpage.JPG";
-import img3 from "./productdescription.JPG";
-import img4 from "./cart.JPG";
+import img1 from "./home.JPG";
+import img2 from "./citySearch.png";
+import img3 from "./login.JPG";
+import img4 from "./signup.JPG";
+import img5 from "./productDetails.png";
+import img6 from "./orderSummary.png";
 
 import left from "./left.gif";
 import right from "./right.gif";
@@ -29,7 +31,14 @@ const Project2 = () => {
       id: 3,
       image: img4,
     },
-    
+    {
+      id: 4,
+      image: img5,
+    },
+    {
+      id: 5,
+      image: img6,
+    },
   ];
 
   // useEffect(() => {
@@ -76,23 +85,23 @@ const Project2 = () => {
             fontWeight: "bolder",
           }}
         >
-          The Home Depot clone
+          Royal Brothers clone
         </h2>
         <p>
-        The Home Depot is the largest home improvement retailer in 
-         supplying tools, construction products, appliances, and services. 
+        Royal brother is a bike rentals platform to rent bikes on hourly basis.
+       ‘Why buy when you can rent’
         
         </p>
 
         <h3 style={{ color: "#B37D4E" }}>Tech stack:</h3>
-        <p>HTML | CSS | Advance JAVASCRIPT using API</p>
+        <p>React | Redux | Material UI | MongoDB | Express JS | Node JS | HTML | CSS</p>
 
         <div className="btndivv">
           <button className="btnpro" style={{ backgroundColor: "black" }}>
             <a
               style={{ textDecoration: "none", color: "white" }}
               target="_blank"
-              href="https://github.com/Shyamal90/homeDepot_clone"
+              href="https://github.com/sahilgarg29/royalbrothers-frontend"
             >
               <span>
                 <svg
@@ -123,7 +132,7 @@ const Project2 = () => {
             style={{ backgroundColor: "#286DAB" }}
           >
             <a
-              href="https://shyamal90.github.io/homeDepot_clone/"
+              href="https://royalbrothers-clone.netlify.app/"
               style={{ textDecoration: "none", color: "white" }}
               target="_blank"
             >
@@ -158,7 +167,7 @@ const Project2 = () => {
               className="anch"
               style={{ textDecoration: "none", color: "white" }}
               target="_blank"
-              href="https://drive.google.com/file/d/1ZUWS0gsFWoSpQtBYovzWea1qzf6kUg2f/view?usp=sharing"
+              href="https://drive.google.com/file/d/1ktZ3qkjW9SIiZENNRv9Tyd8iDj14TLzU/view?usp=sharing"
             >
               <span>
                 <img

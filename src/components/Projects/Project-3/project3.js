@@ -76,7 +76,7 @@ const Project3 = () => {
             fontWeight: "bolder",
           }}
         >
-          The Home Depot clone (Backend)
+          The Home Depot clone 
         </h2>
         <p>
         The Home Depot is the largest home improvement retailer in 
@@ -85,7 +85,7 @@ const Project3 = () => {
         </p>
 
         <h3 style={{ color: "#B37D4E" }}>Tech stack:</h3>
-        <p>MongoDB | Express | NodeJS | EJS | CSS | Advance JAVASCRIPT |</p>
+        <p> EJS | MongoDB | Express | NodeJS | CSS | Advance JAVASCRIPT </p>
      
         <div className="btndivv">
           <button className="btnpro" style={{ backgroundColor: "black" }}>
