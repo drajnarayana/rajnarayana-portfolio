@@ -29,7 +29,7 @@ function Right() {
              <input style={{height:"30px",marginBottom:"20px",fontSize:"20px"}} name="email" type="text" placeholder='Email'/>
              
              <textarea style={{height:"150px",marginBottom:"20px",fontSize:"24px"}} name="message" type="text" placeholder='Message..'/>
-             <input className="sendbtn" type="submit" value="SEND"/>
+             <input className="sendbtn" type="submit" value="Send"/>
            </form>
        
           </div>

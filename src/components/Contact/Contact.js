@@ -8,7 +8,7 @@ function Contact() {
     return (
         <div id="contact">
             <div className='contactme'>
-                <h1>Contact Me</h1></div>
+                <h1>Contact</h1></div>
             <div className='contactbody'>
             <Left />
             <Right/>
