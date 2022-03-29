@@ -12,7 +12,7 @@ animation-duration: 2s; */
     height: 100%;
     max-width: 250px;
    margin-left: 40%;
-    /* border: 1px solid #FAFAFA; */
+    /* border: 1px solid black; */
     overflow: hidden;
     /* border-radius: 100%; */
 }
