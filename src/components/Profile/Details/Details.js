@@ -14,7 +14,7 @@ export const Details=()=>{
               </p>
               <a
                 target="_blank"
-                href="https://drive.google.com/file/d/1f4w5l5OtPT1kDWZON0y0Nb-PNIVeNMJH/view?usp=sharing"
+                href="https://drive.google.com/file/d/1RvLqYIgYn_GUUvBX8aShMqlPNsOhoPOr/view?usp=sharing"
               > 
                 {" "}
                 <button className="resume" >Resume</button>
