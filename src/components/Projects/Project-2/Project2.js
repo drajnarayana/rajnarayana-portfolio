@@ -85,7 +85,7 @@ const Project2 = () => {
             fontWeight: "bolder",
           }}
         >
-          Royal Brothers clone
+          Royal Brothers Clone
         </h2>
         <p>
         Royal brother is a bike rentals platform to rent bikes on hourly basis.

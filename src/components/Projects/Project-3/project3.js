@@ -76,7 +76,7 @@ const Project3 = () => {
             fontWeight: "bolder",
           }}
         >
-          The Home Depot clone 
+          The Home Depot Clone 
         </h2>
         <p>
         The Home Depot is the largest home improvement retailer in 

@@ -84,7 +84,7 @@ const Project1 = () => {
             fontWeight: "bolder",
           }}
         >
-          Kohl's clone
+          Kohl's Clone
         </h2>
         <p>
         Kohl's is an American department store retail chain.
